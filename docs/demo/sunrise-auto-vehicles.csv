@@ -1,0 +1,19 @@
+stock_number,vin,year,make,model,trim,mileage,price,color,transmission,fuel,status
+SA1001,1HGCV1F30LA000101,2020,Honda,Civic,EX,41200,18995,Silver,Automatic,Gasoline,available
+SA1002,1HGCV1F31KA000102,2019,Honda,Civic,Sport,52800,16495,Blue,Manual,Gasoline,available
+SA1003,2T1BURHE5JC000103,2018,Toyota,Corolla,LE,63400,13995,White,Automatic,Gasoline,available
+SA1004,4T1B11HK5KU000104,2019,Toyota,Camry,SE,48900,19995,Black,Automatic,Gasoline,available
+SA1005,5YFEPRAE4LP000105,2020,Toyota,RAV4,XLE,37600,26995,Gray,Automatic,Gasoline,available
+SA1006,2HKRW2H85LH000106,2020,Honda,CR-V,EX-L,44100,25495,Red,Automatic,Gasoline,available
+SA1007,1FTEW1EP5KF000107,2019,Ford,F-150,XLT,58300,29995,Black,Automatic,Gasoline,available
+SA1008,1FMCU9GD5KU000108,2019,Ford,Escape,SE,51700,16995,White,Automatic,Gasoline,hold
+SA1009,1C4RJFBG5KC000109,2019,Jeep,Grand Cherokee,Laredo,60200,22495,Gray,Automatic,Gasoline,available
+SA1010,3VWC57BU5KM000110,2019,Volkswagen,Jetta,SE,49500,14995,Silver,Automatic,Gasoline,available
+SA1011,1N4BL4BV5LC000111,2020,Nissan,Altima,SV,39800,17495,Blue,Automatic,Gasoline,available
+SA1012,5NPE34AF5KH000112,2019,Hyundai,Sonata,SEL,45600,16995,White,Automatic,Gasoline,available
+SA1013,KNDJ23AU5L7000113,2020,Kia,Sportage,LX,42300,18995,Black,Automatic,Gasoline,available
+SA1014,1G1ZD5ST5KF000114,2019,Chevrolet,Malibu,LT,55100,14495,Red,Automatic,Gasoline,available
+SA1015,1GNSKBKC5KR000115,2019,Chevrolet,Tahoe,LT,67400,34995,Black,Automatic,Gasoline,available
+SA1016,WBA8E9G55KN000116,2019,BMW,330i,Base,46900,24995,White,Automatic,Gasoline,available
+SA1017,5XYZU3LB5KG000117,2019,Hyundai,Santa Fe,SE,53200,19495,Gray,Automatic,Gasoline,sold
+SA1018,2C3CDXBG5KH000118,2019,Dodge,Charger,SXT,57800,21995,Red,Automatic,Gasoline,available

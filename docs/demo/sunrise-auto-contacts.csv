@@ -1,0 +1,31 @@
+first_name,last_name,phone,email,lead_source,preferred_channel,buyer_stage,vehicle_of_interest,assigned_to,purchase_date,vehicle_purchased,last_service_date,service_due_date,lease_end_date,tags
+Maya,Johnson,+15550100101,maya.johnson@example.com,Website,Text,Researching,SA1001,Alex Rivera,,,,,,demo;new-lead
+Daniel,Okafor,+15550100102,daniel.okafor@example.com,Cars.com,Email,Ready,SA1005,Alex Rivera,,,,,,demo;hot-lead
+Priya,Shah,+15550100103,priya.shah@example.com,Facebook Marketplace,Text,Researching,SA1004,Jordan Lee,,,,,,demo;new-lead
+Carlos,Mendez,+15550100104,carlos.mendez@example.com,Phone,Call,Financing,SA1007,Jordan Lee,,,,,,demo;financing
+Hannah,Brooks,+15550100105,hannah.brooks@example.com,Google,Text,Ready,SA1006,Alex Rivera,,,,,,demo;test-drive-booked
+Tyrone,Williams,+15550100106,tyrone.williams@example.com,AutoTrader,Email,Researching,SA1009,Jordan Lee,,,,,,demo;new-lead
+Elena,Petrova,+15550100107,elena.petrova@example.com,Walk-in,Call,Negotiating,SA1016,Alex Rivera,,,,,,demo;showed
+Marcus,Reed,+15550100108,marcus.reed@example.com,CarGurus,Text,Ready,SA1011,Jordan Lee,,,,,,demo;hot-lead
+Sofia,Alvarez,+15550100109,sofia.alvarez@example.com,Website,Email,Researching,SA1013,Alex Rivera,,,,,,demo;new-lead
+Brian,Chen,+15550100110,brian.chen@example.com,Referral,Call,Ready,SA1015,Jordan Lee,,,,,,demo;trade-in
+Aisha,Khan,+15550100111,aisha.khan@example.com,Google,Text,Researching,SA1012,Alex Rivera,,,,,,demo;new-lead
+Peter,Novak,+15550100112,peter.novak@example.com,Phone,Call,Financing,SA1003,Jordan Lee,,,,,,demo;financing
+Grace,Turner,+15550100113,grace.turner@example.com,Website,Text,Delivered,,Alex Rivera,2026-11-22,2019 Hyundai Santa Fe,,2027-05-22,,demo;recent-buyer;review-pending
+Omar,Hassan,+15550100114,omar.hassan@example.com,Cars.com,Email,Delivered,,Jordan Lee,2026-11-15,2019 Toyota Camry,,2027-05-15,,demo;recent-buyer;30-day-checkin
+Lily,Nguyen,+15550100115,lily.nguyen@example.com,Referral,Text,Delivered,,Alex Rivera,2026-11-08,2020 Honda CR-V,,2027-05-08,,demo;recent-buyer
+Robert,Kim,+15550100116,robert.kim@example.com,Walk-in,Call,Delivered,,Jordan Lee,2026-10-28,2019 Ford F-150,,2027-04-28,,demo;recent-buyer
+Chloe,Martin,+15550100117,chloe.martin@example.com,Facebook Marketplace,Text,Delivered,,Alex Rivera,2026-10-12,2018 Toyota Corolla,,2027-04-12,,demo;recent-buyer;5-star-review
+Andre,Jackson,+15550100118,andre.jackson@example.com,AutoTrader,Email,Delivered,,Jordan Lee,2026-09-30,2019 Jeep Grand Cherokee,,2027-03-30,,demo;recent-buyer
+Nina,Rossi,+15550100119,nina.rossi@example.com,Google,Text,Delivered,,Alex Rivera,2026-09-14,2019 Volkswagen Jetta,,2027-03-14,,demo;recent-buyer
+Hugo,Sanders,+15550100120,hugo.sanders@example.com,Website,Call,Delivered,,Jordan Lee,2026-08-30,2020 Nissan Altima,,2027-02-28,,demo;recent-buyer
+Fatima,Ali,+15550100121,fatima.ali@example.com,Referral,Text,Delivered,,Alex Rivera,2025-11-29,2018 Honda Accord,2026-05-29,2026-11-29,,demo;service-due
+Kevin,O'Brien,+15550100122,kevin.obrien@example.com,Walk-in,Call,Delivered,,Jordan Lee,2025-12-05,2019 Chevrolet Malibu,2026-06-05,2026-12-05,,demo;service-due
+Julia,Fernandez,+15550100123,julia.fernandez@example.com,Google,Text,Delivered,,Alex Rivera,2025-10-18,2017 Kia Sorento,2026-04-18,2026-10-18,,demo;service-overdue
+Samuel,Green,+15550100124,samuel.green@example.com,Phone,Email,Delivered,,Jordan Lee,2025-06-20,2018 Ford Escape,2026-10-20,2027-04-20,,demo;declined-work;tires
+Rachel,Adams,+15550100125,rachel.adams@example.com,Website,Text,Delivered,,Alex Rivera,2025-07-11,2019 Honda Civic,2026-11-01,2027-05-01,,demo;declined-work;brakes
+Victor,Lopez,+15550100126,victor.lopez@example.com,Cars.com,Call,Delivered,,Jordan Lee,2023-12-15,2021 BMW 330i lease,2026-09-10,2027-03-10,2026-12-15,demo;lease-ending
+Dana,Whitfield,+15550100127,dana.whitfield@example.com,Referral,Text,Lost,SA1007,Alex Rivera,,,,,,demo;lost;price
+Ibrahim,Yusuf,+15550100128,ibrahim.yusuf@example.com,CarGurus,Email,Lost,SA1015,Jordan Lee,,,,,,demo;lost;financing
+Tessa,Moore,+15550100129,tessa.moore@example.com,Facebook Marketplace,Text,Lost,SA1002,Alex Rivera,,,,,,demo;lost;went-elsewhere
+Leo,Baker,+15550100130,leo.baker@example.com,Google,Call,Lost,SA1010,Jordan Lee,,,,,,demo;lost;timing
